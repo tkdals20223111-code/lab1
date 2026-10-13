@@ -1,0 +1,4 @@
+Hello Linux
+This is vi editor practice.
+Linux is interesting.
+I am learning vi editor.

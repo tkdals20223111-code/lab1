@@ -1,0 +1,18 @@
+# Object files
+*.o
+
+# Library files
+*.a
+*.so
+
+# Executable files
+static_app
+shared_app
+dynamic_app
+profile_app
+
+# Profiling and debugging
+gmon.out
+vgcore.*
+core
+core.*

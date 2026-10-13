@@ -1,0 +1,5 @@
+Kim 90
+Lee85
+Park 70
+Kang 95
+Choi 60
